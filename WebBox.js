@@ -1,4 +1,3 @@
-// This is the JS file for the WebBox project.
 //DIV random color
 function getRandomColor() {
   return "#" + (Math.round(Math.random() * 0XFFFFFF)).toString(16);
