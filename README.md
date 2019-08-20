@@ -1,5 +1,15 @@
-Web Boxes
+## Web Boxes
 
-Open index.html in browser - Vanilla Javascript
+Powered by Vanilla Javascript
 
-Create, Move, and Resize: Vertically, Horizontally, Diagonally 
+Open index.html in browser
+
+<pre>
+
+1.) Create Box
+
+2.) Move Box
+
+3.) Resize Box: Vertically, Horizontally, Diagonally 
+
+</pre>
